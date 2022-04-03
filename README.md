@@ -26,7 +26,7 @@
 ----------------------
 Well... at the same job but looking to get back!😉
 
-### To fullfill my destiny, I'm studying:
+### To fulfill my destiny, I'm studying:
 - 💻 A lot of OOP and Functional paradigm 
 - 📃 Data Structure, mainly trough leetCode (and just to be honest, I'm in love with this website 💛)
 - 💿 Coding challenges: leetCode, Codewars and ProjectEuler
