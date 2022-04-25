@@ -28,8 +28,9 @@ Well... at the same job but looking to get back!😉
 
 ### To fulfill my destiny, I'm studying:
 - 💻 A lot of OOP and Functional paradigm 
-- 📃 Data Structure, mainly trough leetCode (and just to be honest, I'm in love with this website 💛)
+- 📃 Data Structure, mainly through leetCode (and just to be honest, I'm in love with this website 💛)
 - 💿 Coding challenges: leetCode, Codewars and ProjectEuler
+- 📃 Online courses, mainly through Udemy (Web API, Entity Framework etc) 
 
 ## My plans to the future... 📆
 -----------------------
