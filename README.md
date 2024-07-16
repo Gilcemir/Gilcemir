@@ -1,6 +1,6 @@
 # About me 
 ----------
-- 😎 My name is Gilcemir, currently living in the State of Minas Gerais, Brazil. I'm a Junior Developer looking for something new to learn each and every day. I love mathematics, solving problems and coding challenges!
+- 😎 My name is Gilcemir, currently living in the State of Minas Gerais, Brazil. I'm a Developer looking for something new to learn each and every day. I love mathematics, solving problems and coding challenges!
 - 🚀 I love strongly typed programming languages!
 - 🚲 I also love sports. I'm a Brazilian Jiu Jitsu black-belt!
   
