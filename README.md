@@ -1,30 +1,53 @@
-# About me 
-----------
-- 😎 My name is Gilcemir, currently living in the State of Minas Gerais, Brazil. I'm a Developer looking for something new to learn each and every day. I love mathematics, solving problems and coding challenges!
-- 🚀 I love strongly typed programming languages!
-- 🚲 I also love sports. I'm a Brazilian Jiu Jitsu black-belt!
-  
+# 👋 About Me
 
-## My Skills 👶
----------
-![!](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![!](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![!](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![!](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![!](https://camo.githubusercontent.com/988b23566a8e239f9717abbed64d36834115c8a8c7082a71c358e04f47f8398c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
+Hi! I'm **Gilcemir Filho**, a backend developer from Minas Gerais, Brazil 🇧🇷.
+
+I'm specialized in building scalable and efficient systems using **.NET**, with solid experience in the **financial industry**. I'm passionate about writing clean code, solving real-world problems, and exploring system architecture, distributed applications, and performance optimization.
+
+When I'm not coding, you’ll probably find me on the mats — I’m a **Brazilian Jiu-Jitsu black belt**, practicing for nearly 16 years. The discipline and strategy from martial arts shape how I approach software engineering.
+
+---
+
+## 🧠 Interests
+
+- High-performance backend systems
+- Microservices architecture
+- Messaging and distributed systems
+- Databases (NoSQL & relational)
+- Clean Code, Hexagonal Architecture, and DDD
+- Finance & tech integration
+
+---
+
+## 💻 Tech Stack
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
-## What I'm coding?
+## 📊 What I'm Working On
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilcemir)](https://github.com/Gilcemir)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilcemir&layout=compact)](https://github.com/Gilcemir)
 
+---
 
-## Where I'm coding?
-
+## 🧪 Practice & Challenges
 
 [![CodeWars](https://www.codewars.com/users/Gilcemir/badges/small)](https://www.codewars.com/users/Gilcemir)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/gangelofilho/)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/gilcemir)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/gilcemir)
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/gangelofilho/) [![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=whit)](https://www.freecodecamp.org/gilcemir) [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/gilcemir)
+---
 
-## Where you can find me? 📫
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilcemir-filho/) [![Gmail](https://cdn.icon-icons.com/icons2/2530/PNG/96/gmail_button_icon_151848.png)](mailto:gangelofilho@gmail.com) 
+## 📫 Connect with Me
 
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilcemir-filho/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gangelofilho@gmail.com)
